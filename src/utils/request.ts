@@ -10,7 +10,7 @@ import { getItem } from '@/utils/storage'
 
 // 创建实例时配置默认值
 const request = axios.create({
-  baseURL: 'http://apis.imooc.com/api',
+  baseURL: 'https://apis.imooc.com/api',
   timeout: 5000
 })
 // 添加请求拦截器
