@@ -1,31 +1,38 @@
 # zheye
 
-## demo
+## 项目地址
 https://zhihuzheyedemo.vercel.app/#/
 体验账号：（Emaile：111@test.com,password:123456）
 ps:这里用的是github pages部署的网站，可能加载较慢。
 
-## 主要技术
-技术栈：vue3 + typescript + pinia + vue-router + less + axios
+## 技术选型
+- vue3
+- typescript
+- pinia
+- vue-router
+- less
+- axios
+
+## 项目功能
+- [ ] 注册、登录
+- [ ] 专栏列表
+- [ ] 文章列表
+- [ ] 新增文章（markdown）
+- [ ] 编辑、删除文章
 
 ## Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 项目运行
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 项目打包
 ```
 npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
 ```
 
 ### Customize configuration
