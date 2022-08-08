@@ -3,6 +3,7 @@
 ## demo
 https://zhihuzheyedemo.vercel.app/#/
 体验账号：（Emaile：111@test.com,password:123456）
+ps:这里用的是github pages部署的网站，可能加载较慢。
 
 ## 主要技术
 技术栈：vue3 + typescript + pinia + vue-router + less + axios
